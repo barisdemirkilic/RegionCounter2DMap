@@ -92,6 +92,7 @@ namespace Baris_Demirkilic
         }
 
         // Region setter function decides the new region flag and increments region count
+        // Then it will call RecursiveRegionSetter function to do the rest
         public void RegionSetter(in int startIdxRow, in int startIdxCol)
         {
             int curRegionNo = RegionCount + 2;
