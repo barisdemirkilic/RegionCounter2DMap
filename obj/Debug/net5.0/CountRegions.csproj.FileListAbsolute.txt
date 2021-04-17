@@ -1,0 +1,16 @@
+D:\Work\VSProjects\CountRegions\bin\Debug\net5.0\CountRegions.exe
+D:\Work\VSProjects\CountRegions\bin\Debug\net5.0\CountRegions.deps.json
+D:\Work\VSProjects\CountRegions\bin\Debug\net5.0\CountRegions.runtimeconfig.json
+D:\Work\VSProjects\CountRegions\bin\Debug\net5.0\CountRegions.runtimeconfig.dev.json
+D:\Work\VSProjects\CountRegions\bin\Debug\net5.0\CountRegions.dll
+D:\Work\VSProjects\CountRegions\bin\Debug\net5.0\ref\CountRegions.dll
+D:\Work\VSProjects\CountRegions\bin\Debug\net5.0\CountRegions.pdb
+D:\Work\VSProjects\CountRegions\obj\Debug\net5.0\CountRegions.csprojAssemblyReference.cache
+D:\Work\VSProjects\CountRegions\obj\Debug\net5.0\CountRegions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\VSProjects\CountRegions\obj\Debug\net5.0\CountRegions.AssemblyInfoInputs.cache
+D:\Work\VSProjects\CountRegions\obj\Debug\net5.0\CountRegions.AssemblyInfo.cs
+D:\Work\VSProjects\CountRegions\obj\Debug\net5.0\CountRegions.csproj.CoreCompileInputs.cache
+D:\Work\VSProjects\CountRegions\obj\Debug\net5.0\CountRegions.dll
+D:\Work\VSProjects\CountRegions\obj\Debug\net5.0\ref\CountRegions.dll
+D:\Work\VSProjects\CountRegions\obj\Debug\net5.0\CountRegions.pdb
+D:\Work\VSProjects\CountRegions\obj\Debug\net5.0\CountRegions.genruntimeconfig.cache
